@@ -1,7 +1,7 @@
 <?php
 class back {
 	private $a,$b,$res;
-	function __construct($a,$b) {
+	function __construct($a,$b)  {
 		$this -> a = $a;
 		$this -> b = $b;
 	}
